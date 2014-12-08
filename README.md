@@ -3,7 +3,7 @@
 ## Usage
 
 ``` swift
-var string: String! = "this is a test string"
+var string: String = "this is a test string"
 
 // interface will take a length that the string is required to be and will pad the remaining length with spaces
 
